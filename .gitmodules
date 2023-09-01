@@ -1,0 +1,9 @@
+[submodule "pa1-student"]
+	path = pa1-student
+	url = https://github.com/AmanPrakash09/pa1-student.git
+[submodule "pa2-student"]
+	path = pa2-student
+	url = https://github.com/AmanPrakash09/pa2-student.git
+[submodule "pa3-student"]
+	path = pa3-student
+	url = https://github.com/AmanPrakash09/pa3-student.git
